@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "http://www.haqqem.com/api/books-item?page=0&size=14",
+      "secure": false
+    }
+  }
